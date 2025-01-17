@@ -1,4 +1,4 @@
 python-telegram-bot
 wikipedia
 wikipedia-api==0.5.8
-
+telegram
